@@ -1,7 +1,9 @@
 US-Sales-and-Customer-Analysis-Dashboards
 
+![Sales 1](https://github.com/user-attachments/assets/97a5129c-03a1-468d-b1a0-1be75de1b563)
 
 
+![Sales 2](https://github.com/user-attachments/assets/337934a8-4b19-4276-b723-8ca2b672f2f5)
 
 
 This project presents a comprehensive sales performance dashboard using Power BI and Excel. The dashboard aims to provide detailed insights into sales data, helping businesses make informed strategic decisions. The components of the dashboard include various key metrics, visualizations, and detailed data tables that cover different aspects of sales performance, customer analysis, and regional insights.
